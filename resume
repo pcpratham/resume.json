@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Pratham Choudhary",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1013@iiitkota.ac.in",
+        "phone": "+917404549466",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Kaithal",
+            "postalCode": "136027",
+            "city": "kaithal",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "_pcpratham_",
+                "url": "https://twitter.com/_pcpratham_"
+            },
+            {
+                "network": "Github",
+                "username": "pcpratham",
+                "url": "https://github.com/pcpratham"
+            },
+            {
+                "network": "linkedin",
+                "username": "prathamchoudhary",
+                "url": "https://www.linkedin.com/in/pratham-choudhary-90822922a/"
+            },
+            {
+                "network": "Instagram",
+                "username": "_impratham_x",
+                "url": "https://www.instagram.com/_impratham_x/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.6",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "C/C++",
+                "HTML",
+                "CSS",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "",
+                "Badminton"
+            ]
+        }
+    ]
+}
